@@ -1,5 +1,7 @@
 package edu.uw.multitouchlab;
 
+import java.util.HashMap;
+
 /**
  * A simple struct to hold a shape
  */
